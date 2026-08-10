@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align="center">
 
 # I'm Matheus Cercena! Nice to meet you 👋

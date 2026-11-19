@@ -6,10 +6,6 @@
 
 <p>Interested in <strong>Backend Development</strong>, <strong>Automation</strong>, and <strong>Data</strong>.</p>
 
-<a href="https://linkedin.com/in/matheuscercena" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
 <br/>
 
 ## 💻 Technologies I've Used

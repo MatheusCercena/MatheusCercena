@@ -39,6 +39,6 @@
 | :--- | :--- | :--- |
 | **[Python-AutoCAD Automation](https://github.com/MatheusCercena/SPEV-Automacao-python-autocad)** | Desktop tool that integrates Python and AutoCAD to automate drawings of balcony glazing projects collecting data and measurements provided by the user through a GUI| Python, PyQt6, AutoCAD, Lisp |
 | **[Personal Finance Manager in Java](https://github.com/MatheusCercena/Gerenciador-de-Financas)** | Desktop application for tracking personal income, expenses, and balance, built with OOP principles and relational database persistence. | Java, MySQL, JDBC, JavaSwing |
-| **[WebScrapping Automation to Fill Terms Online](https://github.com/MatheusCercena/automacao-trt-selenium)** | Web automation tool for registering Technical Responsibility Terms (TRTs), featuring WebScrapping at ECG Glass and form filling at SINCETI. | Python, Selenium |
+| **[TRT Web Automation](https://github.com/MatheusCercena/automacao-trt-selenium)** | Web automation tool for registering Technical Responsibility Terms (TRTs), featuring Web Scraping at ECG Glass and form filling at SINCETI. | Python, Selenium |
 | **[CSV-to-JSON Script](https://github.com/MatheusCercena/script_leitura_csv_selenium)** | Script that extracts data from spreadsheets into JSON format with Pandas and automatically populates registration forms on the ECG Glass platform using Selenium. | Python, Selenium, Pandas|<br/>
 

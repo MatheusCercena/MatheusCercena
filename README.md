@@ -37,16 +37,16 @@
 
 | Project | Description | Technologies |
 | :--- | :--- | :--- |
-| **[SPEV Automação](https://github.com/MatheusCercena/SPEV-Automacao-python-autocad)** | Automation script to streamline repetitive CAD workflows and drawing generation in AutoCAD. | Python, AutoCAD |
-| **[Gerenciador de Finanças](https://github.com/MatheusCercena/Gerenciador-de-Financas)** | Backend system and REST API for personal finance and expense management. | Java, Spring Boot, MySQL |
+| **[PyCad (SPEV Automation)](https://github.com/MatheusCercena/SPEV-Automacao-python-autocad)** | Desktop CAD automation tool for balcony glazing projects, featuring a GUI for measurements, clearance calculations, material lists, and AutoCAD drawing generation. | Python, PyQt6, AutoCAD |
+| **[Gerenciador de Finanças](https://github.com/MatheusCercena/Gerenciador-de-Financas)** | Desktop application for tracking personal income, expenses, and balance, built with OOP principles and relational database persistence. | Java, MySQL, JDBC |
 
 <br/>
 
 ## 📊 GitHub Stats
 
 <div>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MatheusCercena&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCercena&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 </div>
